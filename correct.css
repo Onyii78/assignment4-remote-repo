@@ -80,6 +80,7 @@ text-decoration: none;
     width: 600px;
     margin-right: auto;
     margin-left: auto;
+    color: #fff;
 }
 
 .table{
@@ -103,6 +104,7 @@ text-decoration: none;
 
 #orderform{
     background-color: rgb(194, 166, 11);
+    color: #fff;
 }
 
 .form-group{
